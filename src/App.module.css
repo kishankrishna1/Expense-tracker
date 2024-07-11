@@ -1,0 +1,19 @@
+.App{
+    height: 100vh;
+    background-image: "./img/bg.png";
+    position: relative;
+}
+main {
+  flex: 1;
+  background: rgba(195, 189, 193, 0.78);
+  border: 3px solid #ffffff;
+  backdrop-filter: blur(4.5px);
+  border-radius: 32px;
+  overflow-x: hidden;
+  &::-webkit-scrollbar {
+    width: 0;
+  }
+}
+.height{
+  background-color: #470027;
+}
