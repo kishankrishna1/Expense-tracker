@@ -23,7 +23,7 @@ The Expense Tracker is a sophisticated financial management tool developed using
 ## Installation
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/kishankrishna1/ExpenseTracker
+git clone https://github.com/kishankrishna1/Expense-tracker
 ```
 2. Install the required packages.
 ```bash
